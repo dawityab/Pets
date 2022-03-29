@@ -148,14 +148,14 @@
 
 /* Start Small screen style */
 
-@media (max-width: 575.98px) { 
+/* @media (max-width: 575.98px) { 
 
     .card-img-top{
         display: none;
     }
     .summary-info-titles{
         display: none;
-    }
+    } */
    
 
  }
